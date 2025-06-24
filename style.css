@@ -2,16 +2,13 @@
 
 :root {
     --cor-fundo: #121424;
-    --cor-principal: #6E859F;
-    --cor-secundaria: #284260;
-    --cor-destaque: #C92BFC;
-}
-
-.bg-primary {
-    color: var(--cor-fundo);
+    --cor-principal: #9ba7b4;
+    --cor-secundaria: #d8d8d8;
+    --cor-destaque: #f85555;
 }
 
 body {
+    background-color: var(--cor-fundo);
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal);
 }
